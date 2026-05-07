@@ -1,4 +1,4 @@
-# Marketing-Shopify-Performance-Dashboard-
+# Marketing-Shopify-Performance-Dashboard
 
 End-to-end Power BI project analyzing Marketing and Shopify performance through data cleaning, transformation, data modeling, and DAX. This project delivers executive KPI tracking, campaign efficiency analysis, regional performance insights, audience conversion trends, and global spend distribution to support data-driven business decisions and marketing optimization.
 
